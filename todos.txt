@@ -4,3 +4,4 @@ Stay up
 clean bank
 Go home
 ride train
+Learn Python
