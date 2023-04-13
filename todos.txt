@@ -1,7 +1,7 @@
-new car
+but new car
 sleep
-Stay up
-clean bank
 Go home
-ride train
-Learn Python
+dont ride train
+Learn MORE PythonDo stuff
+Learn MORE Python
+clean more
